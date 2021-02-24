@@ -3,7 +3,3 @@ A simulation for air traffic control synchronized using pthreads API
 
 Spring2020 COMP304 Project2
 
-### Authors
-•	İrem Arpag
-
-•	Ceren Akkalyoncu
